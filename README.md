@@ -9,4 +9,4 @@ KiCAD 3D Render
 ![3D Render](/img/3D.png)
 
 OSHPark Render
-![Solare-BQ2410 OSHPark PCB](OSHPARK_top.png)
+![Solare-BQ2410 OSHPark PCB](/img/OSHPARK_top.png)
